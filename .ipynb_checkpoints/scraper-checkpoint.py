@@ -46,7 +46,7 @@ class Scraper:
 
             data.append(
                 {
-                    'Prodcut': product_name,
+                    'Product': product_name,
                     'Price': price,
                     'Description' : description_text
                 }
