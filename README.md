@@ -1,6 +1,6 @@
 # Ecommerce Product Analyzer
 
-Go to enhanceyourgifts.streamlit.app :)
+Go to [enhanceyourgifts.streamlit.app](https://enhanceyourgifts.streamlit.app/) :)
 
 For merchants, this apps can give you insights & add your product value, here you can:  
 1. See 3 most similar competitor of your product
